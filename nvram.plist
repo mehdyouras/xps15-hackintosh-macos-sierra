@@ -8,11 +8,11 @@
 	</data>
 	<key>SystemAudioVolume</key>
 	<data>
-	OQ==
+	Xw==
 	</data>
 	<key>SystemAudioVolumeDB</key>
 	<data>
-	3Q==
+	Dg==
 	</data>
 	<key>backlight-level</key>
 	<data>
@@ -112,7 +112,7 @@
 	</data>
 	<key>intel-backlight-level</key>
 	<data>
-	QAAAAA==
+	IAIAAA==
 	</data>
 	<key>security-mode</key>
 	<string>none</string>
