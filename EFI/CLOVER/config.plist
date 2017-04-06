@@ -523,13 +523,13 @@
 		<array>
 			<dict>
 				<key>Signature</key>
-				<string>DMAR</string>
-			</dict>
-			<dict>
-				<key>Signature</key>
 				<string>SSDT</string>
 				<key>TableId</key>
 				<string>xh_rvp10</string>
+			</dict>
+			<dict>
+				<key>Signature</key>
+				<string>DMAR</string>
 			</dict>
 		</array>
 		<key>ResetAddress</key>
@@ -549,7 +549,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>-v slide=0 dart=0 nv_disable=1 kext-dev-mode=1</string>
+		<string>slide=0 dart=0 nv_disable=1 kext-dev-mode=1</string>
 		<key>CustomLogo</key>
 		<string>Apple</string>
 		<key>Debug</key>
@@ -580,54 +580,6 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Key</key>
-				<string>device-colors</string>
-				<key>Value</key>
-				<data>
-				AAIAAKCdnQAAAAAAAAAAAA==
-				</data>
-			</dict>
-			<dict>
-				<key>Device</key>
-				<string>IntelGFX</string>
-				<key>Disabled</key>
-				<false/>
-				<key>Key</key>
-				<string>AAPL00,PanelPowerOff</string>
-				<key>Value</key>
-				<data>
-				EQAAAA==
-				</data>
-			</dict>
-			<dict>
-				<key>Device</key>
-				<string>IntelGFX</string>
-				<key>Disabled</key>
-				<false/>
-				<key>Key</key>
-				<string>AAPL,Gfx324</string>
-				<key>Value</key>
-				<data>
-				AQAAAA==
-				</data>
-			</dict>
-			<dict>
-				<key>Device</key>
-				<string>IntelGFX</string>
-				<key>Disabled</key>
-				<false/>
-				<key>Key</key>
-				<string>AAPL,GfxYTile</string>
-				<key>Value</key>
-				<data>
-				AQAAAA==
-				</data>
-			</dict>
-			<dict>
-				<key>Device</key>
-				<string>IntelGFX</string>
-				<key>Disabled</key>
-				<false/>
-				<key>Key</key>
 				<string>AAPL00,PanelCycleDelay</string>
 				<key>Value</key>
 				<data>
@@ -640,10 +592,22 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Key</key>
-				<string>AAPL00,PanelPowerDown</string>
+				<string>device-colors</string>
 				<key>Value</key>
 				<data>
-				PAAAAA==
+				AAIAAKCdnQAAAAAAAAAAAA==
+				</data>
+			</dict>
+			<dict>
+				<key>Device</key>
+				<string>IntelGFX</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Key</key>
+				<string>AAPL00,PanelPowerUp</string>
+				<key>Value</key>
+				<data>
+				MAAAAA==
 				</data>
 			</dict>
 			<dict>
@@ -664,10 +628,46 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Key</key>
-				<string>AAPL00,PanelPowerUp</string>
+				<string>AAPL,GfxYTile</string>
 				<key>Value</key>
 				<data>
-				MAAAAA==
+				AQAAAA==
+				</data>
+			</dict>
+			<dict>
+				<key>Device</key>
+				<string>IntelGFX</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Key</key>
+				<string>AAPL,Gfx324</string>
+				<key>Value</key>
+				<data>
+				AQAAAA==
+				</data>
+			</dict>
+			<dict>
+				<key>Device</key>
+				<string>IntelGFX</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Key</key>
+				<string>AAPL00,PanelPowerOff</string>
+				<key>Value</key>
+				<data>
+				EQAAAA==
+				</data>
+			</dict>
+			<dict>
+				<key>Device</key>
+				<string>IntelGFX</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Key</key>
+				<string>AAPL00,PanelPowerDown</string>
+				<key>Value</key>
+				<data>
+				PAAAAA==
 				</data>
 			</dict>
 		</array>
@@ -732,7 +732,7 @@
 			<true/>
 		</dict>
 		<key>Theme</key>
-		<string>BGM</string>
+		<string>El Capitan</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
@@ -908,6 +908,20 @@
 				<data>
 				iUXIOcZ2UQ==
 				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Fix HDMI output MBP133 Lockzi</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<string>3e4d61632d423830394333373537444139424238443c2f6b65793e0d0a090909093c737472696e673e6e6f6e653c2f737472696e673e0d0a09090909</string>
+				<key>InfoPlistPatch</key>
+				<true/>
+				<key>Name</key>
+				<string>AppleGraphicsDevicePolicy</string>
+				<key>Replace</key>
+				<string>3e4d61632d413543363746373645443833313038433c2f6b65793e0d0a090909093c737472696e673e6e6f6e653c2f737472696e673e0d0a09090909</string>
 			</dict>
 			<dict>
 				<key>Comment</key>
