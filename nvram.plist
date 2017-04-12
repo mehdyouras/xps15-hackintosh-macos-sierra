@@ -12,7 +12,7 @@
 	</data>
 	<key>SystemAudioVolumeDB</key>
 	<data>
-	Dg==
+	8A==
 	</data>
 	<key>backlight-level</key>
 	<data>
@@ -60,7 +60,7 @@
 	</data>
 	<key>fakesmc-key-EPCI-ui32</key>
 	<data>
-	CSDwAA==
+	ArAHAA==
 	</data>
 	<key>fakesmc-key-MSAc-ui16</key>
 	<data>
@@ -88,11 +88,11 @@
 	</data>
 	<key>fakesmc-key-RBr -ch8*</key>
 	<data>
-	ajk1AGNoAAA=
+	bTEAbmNoAAA=
 	</data>
 	<key>fakesmc-key-REV -ch8*</key>
 	<data>
-	AjgPAAAF
+	AQIPAAAQ
 	</data>
 	<key>fakesmc-key-RMde-char</key>
 	<data>
@@ -100,7 +100,7 @@
 	</data>
 	<key>fakesmc-key-RPlt-ch8*</key>
 	<data>
-	ajk1AAAAAAA=
+	bTEAYgAAAAA=
 	</data>
 	<key>flagstate</key>
 	<data>
@@ -112,7 +112,7 @@
 	</data>
 	<key>intel-backlight-level</key>
 	<data>
-	gAEAAA==
+	AAQAAA==
 	</data>
 	<key>security-mode</key>
 	<string>none</string>

@@ -580,43 +580,7 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Key</key>
-				<string>AAPL00,PanelPowerDown</string>
-				<key>Value</key>
-				<data>
-				PAAAAA==
-				</data>
-			</dict>
-			<dict>
-				<key>Device</key>
-				<string>IntelGFX</string>
-				<key>Disabled</key>
-				<false/>
-				<key>Key</key>
 				<string>AAPL,GfxYTile</string>
-				<key>Value</key>
-				<data>
-				AQAAAA==
-				</data>
-			</dict>
-			<dict>
-				<key>Device</key>
-				<string>IntelGFX</string>
-				<key>Disabled</key>
-				<false/>
-				<key>Key</key>
-				<string>device-colors</string>
-				<key>Value</key>
-				<data>
-				AAIAAKCdnQAAAAAAAAAAAA==
-				</data>
-			</dict>
-			<dict>
-				<key>Device</key>
-				<string>IntelGFX</string>
-				<key>Disabled</key>
-				<false/>
-				<key>Key</key>
-				<string>AAPL,Gfx324</string>
 				<key>Value</key>
 				<data>
 				AQAAAA==
@@ -632,6 +596,42 @@
 				<key>Value</key>
 				<data>
 				EQAAAA==
+				</data>
+			</dict>
+			<dict>
+				<key>Device</key>
+				<string>IntelGFX</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Key</key>
+				<string>AAPL00,PanelPowerOn</string>
+				<key>Value</key>
+				<data>
+				GQEAAA==
+				</data>
+			</dict>
+			<dict>
+				<key>Device</key>
+				<string>IntelGFX</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Key</key>
+				<string>AAPL00,PanelPowerDown</string>
+				<key>Value</key>
+				<data>
+				PAAAAA==
+				</data>
+			</dict>
+			<dict>
+				<key>Device</key>
+				<string>IntelGFX</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Key</key>
+				<string>AAPL,Gfx324</string>
+				<key>Value</key>
+				<data>
+				AQAAAA==
 				</data>
 			</dict>
 			<dict>
@@ -664,10 +664,10 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Key</key>
-				<string>AAPL00,PanelPowerOn</string>
+				<string>device-colors</string>
 				<key>Value</key>
 				<data>
-				GQEAAA==
+				AAIAAKCdnQAAAAAAAAAAAA==
 				</data>
 			</dict>
 		</array>
@@ -49008,6 +49008,8 @@
 		<string>Mac-A5C67F76ED83108C</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
+		<key>BoardSerialNumber</key>
+		<string>C02RLUBRGTFNL02YY</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>ChassisAssetTag</key>
@@ -49027,7 +49029,9 @@
 		<key>ProductName</key>
 		<string>MacBookPro13,3</string>
 		<key>SerialNumber</key>
-		<string>C02SLHACGTFN</string>
+		<string>C02RLUBRGTFN</string>
+		<key>SmUUID</key>
+		<string>58203F68-94B2-4CD8-97F2-CF86E8B6A0D2</string>
 		<key>Trust</key>
 		<false/>
 		<key>Version</key>
