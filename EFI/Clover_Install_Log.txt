@@ -1,6 +1,6 @@
 
-Clover EFI installer log - Tue Feb 28 23:25:26 CET 2017
-Installer version: v2.4k r4003 EFI bootloader
+Clover EFI installer log - Wed Apr 12 20:29:13 CEST 2017
+Installer version: v2.4k r4049 EFI bootloader
 ======================================================
 /dev/disk0 (internal):
    #:                       TYPE NAME                    SIZE       IDENTIFIER
@@ -10,17 +10,11 @@ Installer version: v2.4k r4003 EFI bootloader
    3:                 Apple_Boot Recovery HD             650.0 MB   disk0s3
    4:                  Apple_HFS Windows                 199.8 GB   disk0s4
 
-/dev/disk1 (external, physical):
-   #:                       TYPE NAME                    SIZE       IDENTIFIER
-   0:     FDisk_partition_scheme                        *16.2 GB    disk1
-   1:             Windows_FAT_32 CLOVER                  209.7 MB   disk1s1
-   2:                  Apple_HFS OS X Base System        16.0 GB    disk1s2
-
 ======================================================
 Backing up EFI files
 
-Backing up stage2 file /Volumes/macOS/EFIROOTDIR/boot  to /Volumes/macOS/EFI-Backups/r4003/2017-02-28-23h25/boot
-Backing up /Volumes/macOS/EFIROOTDIR/EFI folder to /Volumes/macOS/EFI-Backups/r4003/2017-02-28-23h25/EFI
+Backing up stage2 file /Volumes/macOS/EFIROOTDIR/boot  to /Volumes/macOS/EFI-Backups/r4049/2017-04-12-20h29/boot
+Backing up /Volumes/macOS/EFIROOTDIR/EFI folder to /Volumes/macOS/EFI-Backups/r4049/2017-04-12-20h29/EFI
 ======================================================
 Installing BootSectors/BootLoader
 
