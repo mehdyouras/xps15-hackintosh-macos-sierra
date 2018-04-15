@@ -6,17 +6,25 @@
 	<data>
 	AAAAAA==
 	</data>
+	<key>EmuVariableUefiPresent</key>
+	<data>
+	WWVz
+	</data>
+	<key>OsxAptioFixDrv-RelocBase</key>
+	<data>
+	APA0EwAAAAA=
+	</data>
 	<key>SystemAudioVolume</key>
 	<data>
-	Xw==
+	MA==
 	</data>
 	<key>SystemAudioVolumeDB</key>
 	<data>
-	8A==
+	9Q==
 	</data>
 	<key>backlight-level</key>
 	<data>
-	//8=
+	xQE=
 	</data>
 	<key>bluetoothActiveControllerInfo</key>
 	<data>
@@ -52,15 +60,15 @@
 	</data>
 	<key>fakesmc-key-BEMB-flag</key>
 	<data>
-	AQ==
+	AA==
 	</data>
 	<key>fakesmc-key-BNum-ui8</key>
 	<data>
-	AQ==
+	AA==
 	</data>
 	<key>fakesmc-key-EPCI-ui32</key>
 	<data>
-	ArAHAA==
+	CMDwAA==
 	</data>
 	<key>fakesmc-key-MSAc-ui16</key>
 	<data>
@@ -88,11 +96,11 @@
 	</data>
 	<key>fakesmc-key-RBr -ch8*</key>
 	<data>
-	bTEAbmNoAAA=
+	ajk1ajk1YQA=
 	</data>
 	<key>fakesmc-key-REV -ch8*</key>
 	<data>
-	AQIPAAAQ
+	AjMPAAAQ
 	</data>
 	<key>fakesmc-key-RMde-char</key>
 	<data>
@@ -100,7 +108,7 @@
 	</data>
 	<key>fakesmc-key-RPlt-ch8*</key>
 	<data>
-	bTEAYgAAAAA=
+	ajk1AAAAAAA=
 	</data>
 	<key>flagstate</key>
 	<data>
@@ -108,18 +116,45 @@
 	</data>
 	<key>fmm-computer-name</key>
 	<data>
-	TWVoZHnigJlzIE1hY0Jvb2sgUHJv
+	TWVoZHnigJlzIGlNYWM=
 	</data>
-	<key>intel-backlight-level</key>
+	<key>fmm-mobileme-token-FMM</key>
 	<data>
-	AAQAAA==
+	YnBsaXN0MDDcAQIDBAUGBwgJCgsMDQ4QDRENEhMUFRYdXxAPdW5yZWdpc3RlclN0YXRl
+	XxASZW5hYmxlZERhdGFjbGFzc2VzWWF1dGhUb2tlbl5kaXNhYmxlQ29udGV4dFZ1c2Vy
+	aWRdZW5hYmxlQ29udGV4dFh1c2VybmFtZVhwZXJzb25JRFdhZGRUaW1lVGd1aWRYdXNl
+	ckluZm9fEBNkYXRhY2xhc3NQcm9wZXJ0aWVzEAChD18QIWNvbS5hcHBsZS5EYXRhY2xh
+	c3MuRGV2aWNlTG9jYXRvcl8QKEFRQUFBQUJaZ0x0aHcyZkpDYnE4X1M5TF9OaTNIR3Zr
+	N0tqcWtYTX4RAfVfEBRwb2xvdG80NTAwQGdtYWlsLmNvbVsyNTE3MzgxMzA3NSNB1mAu
+	2JJI7V8QJDdGRjlGMjUxLTA1MzctNEU1OS05QkIzLTlFNDBDQjc1MUM2Q9MXGBkaGxxf
+	EBVJblVzZU93bmVyRGlzcGxheU5hbWVfEBNJblVzZU93bmVyRmlyc3ROYW1lXxASSW5V
+	c2VPd25lckxhc3ROYW1lXxATTWVoZHkgT3VyYXMgRWwgT3VhZFVNZWhkeV1PdXJhcyBF
+	bCBPdWFk0Q8e1B8gISIjJCUmVmFwc0Vudlhob3N0bmFtZV1hdXRoTWVjaGFuaXNtVnNj
+	aGVtZVpQcm9kdWN0aW9uXxATcDMwLWZtaXAuaWNsb3VkLmNvbVV0b2tlblVodHRwcwAI
+	ACEAMwBIAFIAYQBoAHYAfwCIAJAAlQCeALQAtgC4ANwBBwEKASEBLQE2AV0BZAF8AZIB
+	pwG9AcMB0QHUAd0B5AHtAfsCAgINAiMCKQAAAAAAAAIBAAAAAAAAACcAAAAAAAAAAAAA
+	AAAAAAIv
+	</data>
+	<key>install-product-url</key>
+	<data>
+	eC1vc3Byb2R1Y3Q6Ly9GNDU3NjY0Ri1GMzQwLTNFQjYtQjg3RC05RDFGNTYwMjY3QUQv
+	bWFjT1MlMjBJbnN0YWxsJTIwRGF0YQ==
+	</data>
+	<key>prev-lang:kbd</key>
+	<data>
+	ZnItQkU6NQ==
+	</data>
+	<key>previous-system-uuid</key>
+	<data>
+	RjQ1NzY2NEYtRjM0MC0zRUI2LUI4N0QtOUQxRjU2MDI2N0FE
 	</data>
 	<key>security-mode</key>
 	<string>none</string>
 	<key>specialbootdevice</key>
 	<data>
 	AgEMANBBAwoAAAAAAQEGAAAdAQEGAAAAAxcQAAEAAAAAJThBYbUq+wQBKgACAAAAKEAG
-	AAAAAABQXj8kAAAAABjNmc2HnaBNsWnxcetrc/cCAn//BAA=
+	AAAAAACgBZIuAAAAAFUZ88XXuhhEufa9I2xDHQoCAgQDJAD3/HS+fAvzSZFHAfQELmhC
+	T2ZX9EDztj64fZ0fVgJnrX//BAA=
 	</data>
 </dict>
 </plist>
